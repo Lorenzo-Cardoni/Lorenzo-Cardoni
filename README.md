@@ -7,23 +7,23 @@
 ### 🖥️ Programming Languages
 <p align="center">
     <a href="https://www.python.org/">
-        <img src="icons/Python.png" width="100" title="Python">
+        <img src="icons/Python.png" width="75" title="Python">
     </a> &nbsp;&nbsp;
     <a href="https://www.mathworks.com/products/matlab">
-        <img src="icons/Matlab.png" width="100" title="Matlab">
+        <img src="icons/Matlab.png" width="75" title="Matlab">
     </a> &nbsp;&nbsp;
     <a href="https://isocpp.org/">
-        <img src="icons/C++.png" width="100" title="C++">
+        <img src="icons/C++.png" width="75" title="C++">
     </a> &nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="icons/C.png" width="100" title="C">
+        <img src="icons/C.png" width="75" title="C">
     </a> 
 </p>
 
 ### 🛠️ Frameworks & Libraries
 <p align="center">
         <a href="https://it.mathworks.com/products/simulink">
-        <img src="icons/simulink.png" width="100" title="Simulink">
+        <img src="icons/simulink.png" width="75" title="Simulink">
     </a> 
 </p>
 
