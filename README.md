@@ -1,5 +1,10 @@
-## 👋 Hi, I'm Lorenzo Cardoni
+# 👋 Hi, I'm Lorenzo Cardoni
 
+I studied at Università Politecnica delle Marche:
+- Banchelor's Dreegre in Computer and Automation Engineering
+- Master's Degree in Computer and Automation Engineering
+  
+With a focus on AI project from Data SCience and Integration of Deep Learning models on embedded systems
 
 ## 🔧 Technologies & Tools
 
