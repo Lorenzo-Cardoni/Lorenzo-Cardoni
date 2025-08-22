@@ -1,10 +1,15 @@
 # 👋 Hi, I'm Lorenzo Cardoni
 
-I studied at Università Politecnica delle Marche:
+I studied at Università Politecnica delle Marche (UNIVPM):
 - Banchelor's Dreegre in Computer and Automation Engineering
 - Master's Degree in Computer and Automation Engineering
   
 With a focus on AI project from Data SCience and Integration of Deep Learning models on embedded systems
+
+During my studies I partecipated at diffetent competition:
+  - BOSH FUTURE MOBILITY CHALLENGE 2023: AI development of the car in 1:10 scale, such as the recognition of street signs, pedestrians and the street line.
+  - UNIVPM Hackathon 2023: Developed an idea of website that help big events to manage the crowding.
+  - UNIVPM Hackathon 2024: Developed an idea of a social robot that socialize with people in the center of a city and take rubbish that he finds in his way.
 
 ## 🔧 Technologies & Tools
 
