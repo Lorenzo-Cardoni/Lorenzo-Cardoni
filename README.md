@@ -6,13 +6,13 @@
 ### 🖥️ Programming Languages
 <p align="center">
     <a href="https://www.python.org/">
-        <img src="" width="100" title="Python">
+        <img src="https://github.com/Lorenzo-Cardoni/Lorenzo-Cardoni/edit/main/icons/Python.png" width="100" title="Python">
     </a> &nbsp;&nbsp;
     <a href="https://isocpp.org/">
-        <img src="" width="100" title="C++">
+        <img src="https://github.com/Lorenzo-Cardoni/Lorenzo-Cardoni/edit/main/icons/C++.png" width="100" title="C++">
     </a> &nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="" width="100" title="C">
+        <img src="https://github.com/Lorenzo-Cardoni/Lorenzo-Cardoni/edit/main/icons/C.png" width="100" title="C">
     </a> 
 </p>
 
