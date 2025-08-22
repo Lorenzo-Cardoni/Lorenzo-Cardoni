@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Lorenzo Cardoni
 
+<img width="240" height="240" alt="Design 1" src="https://github.com/user-attachments/assets/df763937-3979-4873-a9da-85499d65544b" />
 
 
 <!--
