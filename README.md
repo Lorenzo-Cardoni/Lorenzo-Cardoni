@@ -25,47 +25,47 @@ During my studies, I had the opportunity to participate in several competitions:
 ## 🔧 Technologies & Tools
 
 ### 🖥️ Programming Languages
-<p align="center">
+<p>
     <a href="https://www.python.org/">
-        <img src="icons/Python.png" width="60" title="Python">
+        <img src="icons/Python.png" width="40" title="Python">
     </a> &nbsp;&nbsp;
     <a href="https://www.mathworks.com/products/matlab">
-        <img src="icons/Matlab.png" width="60" title="Matlab">
+        <img src="icons/Matlab.png" width="40" title="Matlab">
     </a> &nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="icons/C.png" width="60" title="C">
+        <img src="icons/C.png" width="40" title="C">
     </a> 
 </p>
 
 ### 🛠️ Frameworks & Libraries
-<p align="center">
+<p>
   <a href="https://pandas.pydata.org/">
-        <img src="icons/pandas.png" width="60" title="pandas">
+        <img src="icons/pandas.png" width="40" title="pandas">
     </a> &nbsp;&nbsp;
   <a href="https://numpy.org/">
-        <img src="icons/numpy.png" width="60" title="NumPy">
+        <img src="icons/numpy.png" width="40" title="NumPy">
     </a> &nbsp;&nbsp;
     <a href="https://pytorch.org/">
-        <img src="icons/pytorch.png" width="60" title="Pytorch">
+        <img src="icons/pytorch.png" width="40" title="Pytorch">
     </a> &nbsp;&nbsp;
     <a href="https://www.ultralytics.com/">
-        <img src="icons/yolo.png" width="75" title="YOLO">
+        <img src="icons/yolo.png" width="50" title="YOLO">
     </a> &nbsp;&nbsp;
         <a href="https://it.mathworks.com/products/simulink">
-        <img src="icons/simulink.png" width="60" title="Simulink">
+        <img src="icons/simulink.png" width="40" title="Simulink">
     </a> 
 </p>
 
 ### ⚙️ Tools & Other Technologies
-<p align="center">
+<p>
     <a href="https://www.arduino.cc/">
-        <img src="icons/Arduino.png" width="60" title="Arduino">
+        <img src="icons/Arduino.png" width="40" title="Arduino">
     </a> &nbsp;&nbsp;
     <a href="https://www.raspberrypi.com/">
-        <img src="icons/raspberrry_pi.png" width="60" title="Raspberry">
+        <img src="icons/raspberrry_pi.png" width="40" title="Raspberry">
     </a> &nbsp;&nbsp;
         <a href="https://www.microsoft.com/it-it/sql-server">
-        <img src="icons/MSSQL.png" width="60" title="MSSQL">
+        <img src="icons/MSSQL.png" width="40" title="MSSQL">
     </a> 
 </p>
 
