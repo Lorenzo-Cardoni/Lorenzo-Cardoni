@@ -8,7 +8,7 @@ My academic journey focused on **Artificial Intelligence**, with particular inte
 
 ---
 
-### 🏆 Competitions & Projects
+### 🏆 Competitions
 During my studies, I had the opportunity to participate in several competitions:
 
 - **Bosch Future Mobility Challenge 2023**  
