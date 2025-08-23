@@ -39,6 +39,12 @@ During my studies, I had the opportunity to participate in several competitions:
 
 ### 🛠️ Frameworks & Libraries
 <p align="center">
+  <a href="https://pandas.pydata.org/">
+        <img src="icons/pandas.png" width="60" title="pandas">
+    </a> &nbsp;&nbsp;
+  <a href="https://numpy.org/">
+        <img src="icons/numpy.png" width="60" title="NumPy">
+    </a> &nbsp;&nbsp;
     <a href="https://pytorch.org/">
         <img src="icons/pytorch.png" width="60" title="Pytorch">
     </a> &nbsp;&nbsp;
