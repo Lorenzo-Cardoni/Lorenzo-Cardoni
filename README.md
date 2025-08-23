@@ -20,9 +20,9 @@ During my studies, I had the opportunity to participate in several competitions:
 - **UNIVPM Hackathon 2024**  
   Created the idea of a social robot capable of interacting with people in a city center while collecting rubbish along its path.  
 
+---
 
 ## 🔧 Technologies & Tools
-
 
 ### 🖥️ Programming Languages
 <p align="center">
