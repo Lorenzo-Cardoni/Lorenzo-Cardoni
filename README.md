@@ -25,6 +25,11 @@ During my studies, I had the opportunity to participate in several competitions:
 
 ## 🔧 Technologies & Tools
 
+| 🖥️ Programming Languages | 🛠️ Frameworks & Libraries | Tools & Other Technologies |
+| ------------------------- | -------------------------- | --------------------------- |
+|  ![python](https://img.shields.io/badge/PYTHON-3776ab?style=for-the-badge&logo=PYTHON&logoColor=BLUE&labelColor=black)
+| |
+
 <div align="center">
   <table>
     <tr>
