@@ -5,7 +5,7 @@ I graduated at **Università Politecnica delle Marche (UNIVPM)**:
 - **Master’s Degree** in Computer and Automation Engineering  
 
 My academic journey focused on **Automation** and **Artificial Intelligence**, with particular interest in **Machine Learning**, **Deep Learning** and **Data Science**.
-I have also studied hardware, such as microcontrollers, sensors, and motors.
+I also studied hardware, such as microcontrollers, sensors, and motors.
 
 
 ### 🏆 Competitions
